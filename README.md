@@ -8,3 +8,4 @@ Pasos de instalación:git clone <URL DEL REPOSITORIO>
    instalar dependecias 
 Dependencias:requests y python-dotenv
 Autor:Jonathan Noe Mora Muñoz 
+Estado: generando cambios.
